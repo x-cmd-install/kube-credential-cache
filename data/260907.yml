@@ -5,7 +5,7 @@ about:
   head: 2e0bf94
   archived: false
   latestVersion: "v0.5.1"
-  collectedAt: 2026-09-07T05:04:16Z
+  collectedAt: 2026-09-07T19:30:44Z
 timeline:
   created: 2022-08-11
   lastCommit: 2026-06-24
@@ -82,7 +82,7 @@ total:
   commit: 191
 ---
 path: /home/runner/.x-repo/github.com/ryodocx/kube-credential-cache
-collectedAt: 2026-09-07T05:04:17Z
+collectedAt: 2026-09-07T19:30:44Z
 loc:
   Svg:
     code: 3427
@@ -138,7 +138,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:04:18+00:00
+  collectedAt: 2026-09-07T19:30:45+00:00
   platform:
     darwin/arm64:
       name:  kube-credential-cache_0.5.1_Darwin_arm64.tar.gz
