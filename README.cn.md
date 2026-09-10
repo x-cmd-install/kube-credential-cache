@@ -4,7 +4,7 @@
 
 Accelerator cache for kubernetes access
 
-![kube-credential-cache](https://repo.x-cmd.io/kube-credential-cache.svg)
+![kube-credential-cache](https://repo.x-cmd.io/kube-credential-cache.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,20 @@ x install kube-credential-cache
 - **最新版本**: `v0.5.1` (2022-12-21)
 - **最近提交**: 2026-06-24
 - **Release 含资产**: 9 个
-- **发布时间**: 2022-12-21T22:04:08Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [checksums.txt](https://github.com/ryodocx/kube-credential-cache/releases/download/v0.5.1/checksums.txt) | 904 B | `other` |
+| [kube-credential-cache_0.5.1_Darwin_arm64.tar.gz](https://github.com/ryodocx/kube-credential-cache/releases/download/v0.5.1/kube-credential-cache_0.5.1_Darwin_arm64.tar.gz) | 4.6 MiB | `native/darwin/arm64` |
+| [kube-credential-cache_0.5.1_Darwin_x86_64.tar.gz](https://github.com/ryodocx/kube-credential-cache/releases/download/v0.5.1/kube-credential-cache_0.5.1_Darwin_x86_64.tar.gz) | 4.8 MiB | `native/darwin/x64` |
+| [kube-credential-cache_0.5.1_Linux_arm64.tar.gz](https://github.com/ryodocx/kube-credential-cache/releases/download/v0.5.1/kube-credential-cache_0.5.1_Linux_arm64.tar.gz) | 4.2 MiB | `native/linux/arm64` |
+| [kube-credential-cache_0.5.1_Linux_i386.tar.gz](https://github.com/ryodocx/kube-credential-cache/releases/download/v0.5.1/kube-credential-cache_0.5.1_Linux_i386.tar.gz) | 4.5 MiB | `native/linux/x86` |
+| [kube-credential-cache_0.5.1_Linux_x86_64.tar.gz](https://github.com/ryodocx/kube-credential-cache/releases/download/v0.5.1/kube-credential-cache_0.5.1_Linux_x86_64.tar.gz) | 4.6 MiB | `native/linux/x64` |
+| [kube-credential-cache_0.5.1_Windows_arm64.zip](https://github.com/ryodocx/kube-credential-cache/releases/download/v0.5.1/kube-credential-cache_0.5.1_Windows_arm64.zip) | 4.4 MiB | `native/win/arm64` |
+| [kube-credential-cache_0.5.1_Windows_i386.zip](https://github.com/ryodocx/kube-credential-cache/releases/download/v0.5.1/kube-credential-cache_0.5.1_Windows_i386.zip) | 4.7 MiB | `native/win/x64` |
+| [kube-credential-cache_0.5.1_Windows_x86_64.zip](https://github.com/ryodocx/kube-credential-cache/releases/download/v0.5.1/kube-credential-cache_0.5.1_Windows_x86_64.zip) | 4.8 MiB | `native/win/x64` |
 
 ## 流行度
 
@@ -61,4 +74,4 @@ kube-credential-cache 的安装元数据由 [x-cmd/install](https://github.com/x
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:16:05Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:52:47Z._

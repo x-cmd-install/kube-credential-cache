@@ -22,7 +22,20 @@ x install kube-credential-cache
 - **Latest**: `v0.5.1` (2022-12-21)
 - **Last commit**: 2026-06-24
 - **Assets in release**: 9
-- **Published**: 2022-12-21T22:04:08Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [checksums.txt](https://github.com/ryodocx/kube-credential-cache/releases/download/v0.5.1/checksums.txt) | 904 B | `other` |
+| [kube-credential-cache_0.5.1_Darwin_arm64.tar.gz](https://github.com/ryodocx/kube-credential-cache/releases/download/v0.5.1/kube-credential-cache_0.5.1_Darwin_arm64.tar.gz) | 4.6 MiB | `native/darwin/arm64` |
+| [kube-credential-cache_0.5.1_Darwin_x86_64.tar.gz](https://github.com/ryodocx/kube-credential-cache/releases/download/v0.5.1/kube-credential-cache_0.5.1_Darwin_x86_64.tar.gz) | 4.8 MiB | `native/darwin/x64` |
+| [kube-credential-cache_0.5.1_Linux_arm64.tar.gz](https://github.com/ryodocx/kube-credential-cache/releases/download/v0.5.1/kube-credential-cache_0.5.1_Linux_arm64.tar.gz) | 4.2 MiB | `native/linux/arm64` |
+| [kube-credential-cache_0.5.1_Linux_i386.tar.gz](https://github.com/ryodocx/kube-credential-cache/releases/download/v0.5.1/kube-credential-cache_0.5.1_Linux_i386.tar.gz) | 4.5 MiB | `native/linux/x86` |
+| [kube-credential-cache_0.5.1_Linux_x86_64.tar.gz](https://github.com/ryodocx/kube-credential-cache/releases/download/v0.5.1/kube-credential-cache_0.5.1_Linux_x86_64.tar.gz) | 4.6 MiB | `native/linux/x64` |
+| [kube-credential-cache_0.5.1_Windows_arm64.zip](https://github.com/ryodocx/kube-credential-cache/releases/download/v0.5.1/kube-credential-cache_0.5.1_Windows_arm64.zip) | 4.4 MiB | `native/win/arm64` |
+| [kube-credential-cache_0.5.1_Windows_i386.zip](https://github.com/ryodocx/kube-credential-cache/releases/download/v0.5.1/kube-credential-cache_0.5.1_Windows_i386.zip) | 4.7 MiB | `native/win/x64` |
+| [kube-credential-cache_0.5.1_Windows_x86_64.zip](https://github.com/ryodocx/kube-credential-cache/releases/download/v0.5.1/kube-credential-cache_0.5.1_Windows_x86_64.zip) | 4.8 MiB | `native/win/x64` |
 
 ## Popularity
 
@@ -57,8 +70,8 @@ Total: **4,005** lines of code across **16** files in the top 5 languages.
 Install metadata for kube-credential-cache lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `kube-credential-cache` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/kube-credential-cache.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/kube-credential-cache.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:16:05Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:52:47Z._
