@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 5066424,
       "digest": null,
-      "download_count": 126,
+      "download_count": 127,
       "created_at": "2022-12-21T21:59:28Z",
       "updated_at": "2022-12-21T21:59:28Z",
       "browser_download_url": "https://github.com/ryodocx/kube-credential-cache/releases/download/v0.5.1/kube-credential-cache_0.5.1_Darwin_x86_64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 4869538,
       "digest": null,
-      "download_count": 771,
+      "download_count": 772,
       "created_at": "2022-12-21T21:59:29Z",
       "updated_at": "2022-12-21T21:59:29Z",
       "browser_download_url": "https://github.com/ryodocx/kube-credential-cache/releases/download/v0.5.1/kube-credential-cache_0.5.1_Linux_x86_64.tar.gz"
